@@ -1,10 +1,13 @@
 <script>
-	export let name;
+	import Component from "./Component.svelte";
+	let name = 'Riley';
+	let banner = 'This is a <strong>BIG</strong> banner';
 </script>
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>{@html banner}</h1>
+	<Component></Component>
 </main>
 
 <style>
