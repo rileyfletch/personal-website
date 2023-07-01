@@ -1,5 +1,8 @@
 <script>
+	import Button from "./Button.svelte";
 	import Component from "./Component.svelte";
+
+	
 	let name = 'Riley';
 	let banner = 'This is a <strong>BIG</strong> banner';
 </script>
@@ -8,6 +11,7 @@
 	<h1>Hello {name}!</h1>
 	<h1>{@html banner}</h1>
 	<Component></Component>
+	<Button></Button>
 </main>
 
 <style>
