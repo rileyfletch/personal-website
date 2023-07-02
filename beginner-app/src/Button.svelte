@@ -1,6 +1,6 @@
 <script>
     let count = 0;
-
+        
     function increment() {
         count++;
     }

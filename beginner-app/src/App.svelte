@@ -1,8 +1,9 @@
 <script>
 	import Button from "./Button.svelte";
 	import Component from "./Component.svelte";
+  	import DynamicList from "./DynamicList.svelte";
 
-	
+
 	let name = 'Riley';
 	let banner = 'This is a <strong>BIG</strong> banner';
 </script>
@@ -12,6 +13,7 @@
 	<h1>{@html banner}</h1>
 	<Component></Component>
 	<Button></Button>
+	<DynamicList></DynamicList>
 </main>
 
 <style>
