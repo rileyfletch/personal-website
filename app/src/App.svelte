@@ -9,7 +9,7 @@
 	let banner = 'This is a <strong>BIG</strong> banner';
 </script>
 
-<main>
+<main> 
 	<h1>Hello {name}!</h1>
 	<h1>{@html banner}</h1>
 	<Component></Component>
