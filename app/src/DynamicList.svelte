@@ -10,13 +10,22 @@
     }
 </script>
 
-<button on:click={addItem}>Add Item</button>
+<style>
+    .box {
+        margin-bottom: 1500px;
+    }
+</style>
 
-<ul>
-    {#each items as item, index}
-        <li>
-            {item}
-            <button on:click={() => removeItem(index)}>Remove</button>
-        </li>
-    {/each}
-</ul>
+<div class="box">
+    <button on:click={addItem}>Add Item</button>
+
+    <ul>
+        {#each items as item, index}
+            <li>
+                {item}
+                <button on:click={() => removeItem(index)}>Remove</button>
+            </li>
+        {/each}
+    </ul>
+</div>
+

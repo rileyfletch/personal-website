@@ -2,6 +2,7 @@
 	import Button from "./Button.svelte";
 	import Component from "./Component.svelte";
   	import DynamicList from "./DynamicList.svelte";
+  import Scroller from "./components/Scroller.svelte";
 
 
 	let name = 'Riley';
@@ -14,6 +15,7 @@
 	<Component></Component>
 	<Button></Button>
 	<DynamicList></DynamicList>
+	<Scroller></Scroller>
 </main>
 
 <style>
@@ -22,6 +24,7 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
+		font-family:Georgia, 'Times New Roman', Times, serif;
 	}
 
 	h1 {
