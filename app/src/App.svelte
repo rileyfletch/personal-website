@@ -2,7 +2,7 @@
 	import Button from "./Button.svelte";
 	import Component from "./Component.svelte";
   	import DynamicList from "./DynamicList.svelte";
-  import Scroller from "./components/Scroller.svelte";
+  	import Scroller from "./components/Scroller.svelte";
 
 
 	let name = 'Riley';
