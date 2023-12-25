@@ -1,38 +1,17 @@
-let val: number = 2;
-let val2: number = 5;
-
-const func = () => {
-    return 5;
+function displayValue(value: string | number): void {
+    console.log(value);
 }
 
-function reverseString(s: string) {
-    if(s.length == 0) return s;
-    let chars: string[] = [...s];
-    for(let i: number = 0; i < chars.length/2; i++) {
-        let temp: string = chars[i];
-        chars[i] = chars[chars.length - i - 1];
-        chars[chars.length - i - 1] = temp;
-        console.log(chars);
+displayValue("Hello, TypeScript!");
+displayValue(42);
 
-    }
-    console.log(chars);
+function getStringOrNumber(flag: boolean): string | number {
+    return flag ? "Yes" : 42;
 }
 
-class Student {
-    fullName: string;
+let valll = 'hi';
+type Special = number | string;
+let variable: Special;
+variable = 'hello, ts';
+variable = 25;
 
-    constructor(public firstName: string, public middleName: string, public lastName: string) {
-        this.fullName = firstName + ' ' + middleName + ' ' + lastName;
-    }
-}
-
-interface Person {
-    firstName: string;
-    lastName: string;
-}
-
-function doSomething(val: string): string {
-    return 'hello, world';
-}
-
-reverseString("abcdefg");
