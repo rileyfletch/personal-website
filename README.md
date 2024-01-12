@@ -1,1 +1,3 @@
-New personal portfolio with Next.js
+### Personal Portfolio
+
+Personal portfolio using Next.js, work in progress
