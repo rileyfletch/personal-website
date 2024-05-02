@@ -1,3 +1,3 @@
 ### Personal Portfolio
 
-Personal portfolio using Next.js
+WIP summer goals
