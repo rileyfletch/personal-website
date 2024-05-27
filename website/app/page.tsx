@@ -20,7 +20,9 @@ export default function Page() {
         <Footer></Footer>
       </div>
 
-      <NavigationSidebar></NavigationSidebar>
+      <div className="sticky top-0 right-0">
+        <NavigationSidebar />
+      </div>
 
     </main>
   );
