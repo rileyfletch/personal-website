@@ -13,6 +13,9 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      scrollBehavior: {
+        smooth: 'smooth',
+      },
     },
     colors: {
       transparent: 'transparent',
@@ -22,6 +25,28 @@ const config: Config = {
       'verdigris': '#70a9a1',
       'cambridge': '#9ec1a3',
     },
+    keyframes: {
+      typing: {
+        "0%": {
+          width: "0%",
+          visibility: "hidden"
+        },
+        "100%": {
+          width: "100%"
+        }
+      },
+      blink: {
+        "50%": {
+          borderColor: "transparent"
+        },
+        "100%": {
+          borderColor: "white"
+        }
+      }
+    },
+    animation: {
+      typing: "typing 5s steps(40) infinite alternate, blink .7s infinite"
+    }
   },
   plugins: [],
 };

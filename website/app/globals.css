@@ -99,7 +99,7 @@ body {
 	height: 20px;
 	background: rgba(255, 255, 255, 0.2);
 	animation: animate 25s linear infinite;
-	bottom: -450px;
+	bottom: -200px;
 }
 
 .circles li:nth-child(1) {
@@ -210,5 +210,4 @@ body {
 .link-underline:hover {
   background-size: 100% 3px;
   background-position: 0 100%;
-  line-height: 1.2;
 }
