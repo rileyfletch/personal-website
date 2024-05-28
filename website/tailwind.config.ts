@@ -24,6 +24,7 @@ const config: Config = {
       'engineering': '#d00000',
       'verdigris': '#70a9a1',
       'cambridge': '#9ec1a3',
+      'white': '#ffffff',
     },
     keyframes: {
       typing: {
