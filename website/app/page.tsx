@@ -3,6 +3,7 @@ import BackgroundAnimation from "@/components/animation";
 import ContactSection from "@/components/contact";
 import ExperienceSection from "@/components/experience";
 import Footer from "@/components/footer";
+import IntroSection from "@/components/intro";
 import NavigationSidebar from "@/components/navbar";
 import ProjectSection from "@/components/projects";
 
@@ -13,9 +14,10 @@ export default function Page() {
       <BackgroundAnimation></BackgroundAnimation>
 
       <div className="flex flex-col items-center">
-        <AboutSection></AboutSection>
+        <IntroSection></IntroSection>
         <ExperienceSection></ExperienceSection>
         <ProjectSection></ProjectSection>
+        <AboutSection></AboutSection>
         <ContactSection></ContactSection>
         <Footer></Footer>
       </div>

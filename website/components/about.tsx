@@ -1,10 +1,8 @@
 export default function AboutSection() {
   return (
-    <section id="about" className="py-16 flex flex-col items-center">
-      
-
+    <section id="about" className="py-8 flex flex-col items-center">
       <div className="max-w-4xl">
-        <p className="font-bold text-5xl mb-8 mt-16"><span className="text-verdigris">Hi,</span> I&apos;m Riley 👋</p>
+        <p className="font-bold text-5xl mb-8 mt-16 text-center transition duration-500 hover:text-engineering">About Me</p>
 
         <p className="text-3xl mb-5 pt-4">
           I&apos;m currently studying at the <a href="https://www.virginia.edu/" 

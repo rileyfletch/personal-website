@@ -1,6 +1,6 @@
 export default function IntroSection() {
     return (
-    <section id="about" className="py-16 flex flex-col items-center">
+    <section id="intro" className="py-16 flex flex-col items-center">
       <div className="max-w-4xl">
         <p className="font-bold text-5xl mb-8 mt-16"><span className="text-verdigris">Hi,</span> I&apos;m Riley 👋</p>
         <p className="text-3xl mb-5 pt-4">

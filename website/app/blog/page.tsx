@@ -10,8 +10,6 @@ export default function Page() {
     return (
       <main className="font-serif area flex flex-row">
 
-      <BackgroundAnimation></BackgroundAnimation>
-
       <div className="flex flex-col items-center">
         <Footer></Footer>
       </div>
