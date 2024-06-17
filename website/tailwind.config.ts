@@ -25,6 +25,10 @@ const config: Config = {
       'verdigris': '#70a9a1',
       'cambridge': '#9ec1a3',
       'white': '#ffffff',
+      'vanilla': '#F8F4A6',
+      'wine': '#6B2737',
+      'persian': '#E08E45',
+      'tea': '#BDF7B7',
     },
     keyframes: {
       typing: {
