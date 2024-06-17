@@ -16,7 +16,7 @@ export default function ProjectSection() {
               <ProjectCard
                 projectdesc="This is an example"
                 projectlink="www.google.com"
-                projectname="TriviaBot"
+                projectname="TriviaBot thing"
                 iconcolor="bg-persian"
                 imageurl="www.google.com"
               ></ProjectCard>
@@ -25,12 +25,12 @@ export default function ProjectSection() {
               <ProjectCard
                 projectdesc="This is an example"
                 projectlink="https:www.google.com"
-                projectname="socket-talk"
+                projectname="socket-talk yp"
                 iconcolor="bg-persian"
                 imageurl="https://unpkg.com/css.gg@2.0.0/icons/css/adidas.css' rel='stylesheet"
               ></ProjectCard>
               <ProjectCard
-                projectdesc="This is an example"
+                projectdesc="This is an example but actually we will probably have a fair amount of text in these spaces"
                 projectlink="www.google.com"
                 projectname="Swing Chess"
                 iconcolor="bg-persian"
@@ -48,7 +48,7 @@ export default function ProjectSection() {
               <ProjectCard
                 projectdesc="This is an example"
                 projectlink="www.google.com"
-                projectname="Data Science ChatGPT"
+                projectname="Data"
                 iconcolor="bg-persian"
                 imageurl="www.google.com"
               ></ProjectCard>
