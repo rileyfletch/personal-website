@@ -20,15 +20,10 @@ const config: Config = {
     colors: {
       transparent: 'transparent',
       current: 'currentColor',
-      'prussian': '#1c3144',
-      'engineering': '#d00000',
-      'verdigris': '#70a9a1',
-      'cambridge': '#9ec1a3',
-      'white': '#ffffff',
-      'vanilla': '#F8F4A6',
-      'wine': '#6B2737',
-      'persian': '#E08E45',
-      'tea': '#BDF7B7',
+      'dark': '#227C9D',
+      'medium': '#17C3B2',
+      'light': '#FFCB77',
+      'bg': '#FEF9EF',
     },
     keyframes: {
       typing: {

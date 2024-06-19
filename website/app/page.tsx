@@ -1,5 +1,4 @@
 import AboutSection from "@/components/about";
-import BackgroundAnimation from "@/components/animation";
 import ContactSection from "@/components/contact";
 import ExperienceSection from "@/components/experience";
 import Footer from "@/components/footer";
@@ -9,9 +8,7 @@ import ProjectSection from "@/components/projects";
 
 export default function Page() {
   return (
-    <main className="font-serif area flex flex-row">
-
-      <BackgroundAnimation></BackgroundAnimation>
+    <main className="font-serif flex flex-row text-prussian">
 
       <div className="flex flex-col items-center">
         <IntroSection></IntroSection>
