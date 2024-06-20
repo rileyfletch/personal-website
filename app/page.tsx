@@ -6,8 +6,12 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="">
-      <Navigation></Navigation>
+    <main className="bg-cream text-black">
+      <header className="sticky top-0 z-2 bg-cream">
+        <Navigation></Navigation>
+        <hr className="h-0.5 mx-auto bg-black dark:bg-gray-700"></hr>
+      </header>
+      
       <Hero></Hero>
       <Experience></Experience>
       <Projects></Projects>

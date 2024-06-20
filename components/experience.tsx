@@ -4,7 +4,7 @@ export default function Experience() {
     return (
         <div className="text-center p-8">
             <h2 className="font-bold text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-                Why to choose US?
+                Experience
             </h2>
 
             <div className="flex flex-wrap items-center mt-20 text-left text-center">
