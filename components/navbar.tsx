@@ -3,13 +3,13 @@ import Image from "next/image";
 export default function Navigation() {
     return(
         <nav className="py-3 px-4 flex items-center justify-between">
-            <a className="font-bold text-2xl tracking-tight" href="#">riley fletcher</a>
+            <a className="font-semibold text-2xl tracking-tight" href="#">riley fletcher</a>
             <div className="flex items-center">
-                <a href="https://www.google.com" className="ml-5 mr-5"><Image src="train.svg" alt="" width={30} height={30}></Image>
-                </a>
-                <a className="text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Home</a>
-                <a className="text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">About</a>
-                <a className="text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Contact</a>
+                <a className="font-semibold text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Experience</a>
+                <a className="font-semibold text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Projects</a>
+                <a className="font-semibold text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Contact</a>
+                <a className="font-semibold text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Blog</a>
+                <a className="font-semibold text-sm px-4 py-2 leading-none rounded-full hover:bg-gray-700" href="#">Resume</a>
             </div>
         </nav>
     )

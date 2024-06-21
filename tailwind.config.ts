@@ -17,8 +17,13 @@ const config: Config = {
     colors: {
       cream: '#FFFFC2',
       dcream: '#FFFFAD',
-      straw: '#E9E982',
-      black: '#000000'
+      black: '#000000',
+      pastel1: '#FAEDCB',
+      pastel2: '#C9E4DE',
+      pastel3: '#C6DEF1',
+      pastel4: '#DBCDF0',
+      pastel5: '#F2C6DE',
+      pastel6: '#F7D9C4',
     }
   },
   plugins: [],

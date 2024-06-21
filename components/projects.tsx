@@ -2,12 +2,10 @@ import Image from "next/image";
 
 export default function Projects() {
     return (
-    <div className="bg-gray-200 px-2 py-10">
-
+    <div className="px-2 py-16">
         <div id="features" className="mx-auto max-w-6xl">
-            <p className="text-center text-base font-semibold leading-7 text-primary-500">Features</p>
-            <h2 className="text-center font-display text-3xl font-bold tracking-tight text-slate-900 md:text-4xl">
-            Writing has never been so easy
+        <h2 className="font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center">
+                Projects
             </h2>
             <ul className="mt-16 grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
             <li className="rounded-xl bg-white px-6 py-8 shadow-sm">
