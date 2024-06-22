@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Experience() {
     return (
         <div className="text-center md:px-48 space-y-24">
-            <h2 className="font-semibold text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+            <h2 className="text-3xl font-extrabold leading-tight mb-4 sm:text-4xl md:text-5xl text-center">
                 Experience
             </h2>
 
@@ -66,7 +66,7 @@ export default function Experience() {
 
             <div className="flex flex-wrap items-center mt-20 text-left text-center">
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
-                    <Image src="train.svg" alt="bulk editing" className="inline-block rounded shadow-lg border border-merino-400" width={200} height={200}></Image>
+                    <Image src="train2.svg" alt="bulk editing" className="inline-block" width={200} height={200}></Image>
                 </div>
                 <div className="w-full md:w-2/5 lg:w-1/2 px-4 md:order-first text-center md:text-left lg:pr-12">
                     <h3 className="font-bold mt-8 text-xl md:mt-0 sm:text-2xl">

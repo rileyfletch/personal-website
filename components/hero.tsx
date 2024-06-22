@@ -13,10 +13,10 @@ export default function Hero() {
                         I&apos;m an aspiring software engineer with a passion for backend development, computer systems, and solving unique problems.
                         </p>
                         <div className="flex flex-wrap justify-center md:justify-start gap-4">
-                        <a href="#" className="inline-flex text-white bg-pastel6 border-0 py-2 px-6 focus:outline-none hover:bg-pastel5 rounded-xl text-lg transition-colors duration-300 ease-in-out">
+                        <a href="#" className="inline-flex text-white bg-dcream border-0 py-2 px-6 focus:outline-none hover:bg-pastel5 rounded-3xl text-lg transition-colors duration-500 ease-in-out">
                             Download Resume
                         </a>
-                        <a href="#" className="inline-flex text-gray-700 bg-pastel4 border-0 py-2 px-6 focus:outline-none hover:bg-pastel2 rounded-xl text-lg transition-colors duration-300 ease-in-out">
+                        <a href="#" className="inline-flex text-gray-700 bg-dcream border-0 py-2 px-6 focus:outline-none rounded-3xl text-lg transition-colors duration-500 ease-in-out hover:bg-pastel2">
                             Read Articles
                         </a>
                         </div>
