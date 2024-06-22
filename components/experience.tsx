@@ -7,7 +7,7 @@ export default function Experience() {
                 Experience
             </h2>
 
-            <div className="flex flex-wrap items-center mt-20 text-left text-center">
+            <div className="flex flex-wrap items-center mt-20">
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
                     <Image src="dell.svg" alt="gem" className="inline-block" width={200} height={200}></Image>
                 </div>
@@ -26,7 +26,7 @@ export default function Experience() {
                 </div>
             </div>
 
-            <div className="flex flex-wrap items-center mt-20 text-left text-center">
+            <div className="flex flex-wrap items-center mt-20">
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
                     <Image src="navy.svg" alt="project members" className="inline-block" width={200} height={200}></Image>
                 </div>
@@ -45,7 +45,7 @@ export default function Experience() {
                 </div>
             </div>
 
-            <div className="flex flex-wrap items-center mt-20 text-left  text-center">
+            <div className="flex flex-wrap items-center mt-20">
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
                     <Image src="/uvalogo.png" alt="editor" className="inline-block" width={250} height={250}></Image>
                 </div>
@@ -64,7 +64,7 @@ export default function Experience() {
                 </div>
             </div>
 
-            <div className="flex flex-wrap items-center mt-20 text-left text-center">
+            <div className="flex flex-wrap items-center mt-20">
                 <div className="w-full md:w-3/5 lg:w-1/2 px-4">
                     <Image src="train2.svg" alt="bulk editing" className="inline-block" width={200} height={200}></Image>
                 </div>
