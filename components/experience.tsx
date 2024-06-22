@@ -19,9 +19,7 @@ export default function Experience() {
                         May 2024 - August 2024
                     </h2>
                     <p className="sm:text-lg mt-3">
-                        Use the LocaleData gem to download translations directly into your Ruby on Rails
-                        projects using the provided command line interface. Just create a project and follow
-                        the step-by-step instructions.
+                        Creating Python utilities for NVMe performance monitoring and analysis for the PowerStore backend protocols team.
                     </p>
                 </div>
             </div>
@@ -35,12 +33,12 @@ export default function Experience() {
                     United States Navy, <span className="font-medium">Software Engineering Intern</span>
                     </h3>
                     <h2 className="font-light mt-10 text-xl md:mt-2 sm:text-1xl">
-                        May 2024 - August 2024
+                        April 2023 - August 2023
                     </h2>
                     <p className="sm:text-lg mt-3">
-                        Use the LocaleData gem to download translations directly into your Ruby on Rails
-                        projects using the provided command line interface. Just create a project and follow
-                        the step-by-step instructions.
+                        Developed features on a JavaFX desktop application for naval training software, addressed OWASP 10 security vulnerabilities, and 
+                        integrated VMWare ESXi into the program. Introduced JUnit testing and improved the CI/CD process by leveraging features of Gradle,
+                        Jenkins, and GitLab.
                     </p>
                 </div>
             </div>
@@ -54,12 +52,12 @@ export default function Experience() {
                         University of Virginia, <span className="font-medium">Teaching Assistant</span>
                         </h3>
                         <h2 className="font-light mt-10 text-xl md:mt-2 sm:text-1xl">
-                            May 2024 - August 2024
+                            January 2024 - Current
                         </h2>
                         <p className="sm:text-lg mt-3">
-                            Use the LocaleData gem to download translations directly into your Ruby on Rails
-                            projects using the provided command line interface. Just create a project and follow
-                            the step-by-step instructions.
+                            Hosted labs, held office hours, and assisted in exam preparation for Computer Systems and Organization I and II. The two courses cover
+                            hardware design, circuits, data and process representation,  and x86 assembly; both utilize C programming to explore
+                            concurrency, virtual memory, networking, security concepts, and Linux/unix internals.
                     </p>
                 </div>
             </div>
@@ -73,12 +71,12 @@ export default function Experience() {
                         Virginia Railway Express, <span className="font-medium">Technology Intern</span>
                         </h3>
                         <h2 className="font-light mt-10 text-xl md:mt-2 sm:text-1xl">
-                            May 2024 - August 2024
+                            June 2022 - April 2023
                         </h2>
                         <p className="sm:text-lg mt-3">
-                            Use the LocaleData gem to download translations directly into your Ruby on Rails
-                            projects using the provided command line interface. Just create a project and follow
-                            the step-by-step instructions.
+                            Wrote PowerShell scripts for data analysis and automation, set up user workstations with Microsoft Autopilot, and performed
+                            general help desk tasks involving Azure, OneDrive, and SharePoint. Performed networking and maintanence on switches, security appliances, and
+                            servers in-office and at train stations.
                         </p>
                 </div>
             </div>
