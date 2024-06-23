@@ -16,7 +16,7 @@ const config: Config = {
     },
     colors: {
       cream: '#FFFFFF',
-      dcream: '#f8f5f5',
+      dcream: '#f0f0f0',
       black: '#000000',
       pastel1: '#FAEDCB',
       pastel2: '#C9E4DE',
