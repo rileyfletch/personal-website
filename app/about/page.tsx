@@ -1,4 +1,4 @@
-import Experience from "@/components/experience";
+import Experience from "@/components/about";
 import Navigation from "@/components/navbar";
 
 export default function Home() {

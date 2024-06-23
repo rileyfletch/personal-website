@@ -16,14 +16,11 @@ const config: Config = {
     },
     colors: {
       cream: '#FFFFFF',
-      dcream: '#f0f0f0',
+      dcream: '#fcfcfc',
       black: '#000000',
-      pastel1: '#FAEDCB',
-      pastel2: '#C9E4DE',
-      pastel3: '#C6DEF1',
-      pastel4: '#DBCDF0',
-      pastel5: '#F2C6DE',
-      pastel6: '#F7D9C4',
+      dblue: '#2D64BC',
+      lblue: '#6499F3',
+      yellow: '#FFBA00'
     }
   },
   plugins: [],
