@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Experience() {
     return (
-        <div className="text-center md:px-48 space-y-24">
+        <div className="text-center md:px-36 space-y-24">
             <h2 className="text-3xl font-extrabold leading-tight mb-4 sm:text-4xl md:text-5xl text-center">
                 Experience
             </h2>
@@ -19,7 +19,7 @@ export default function Experience() {
                         May 2024 - August 2024
                     </h2>
                     <p className="sm:text-lg mt-3">
-                        Creating Python utilities for NVMe performance monitoring and analysis for the PowerStore backend protocols team.
+                        Creating Python utilities for NVMe drive performance monitoring and analysis for the PowerStore backend protocols team.
                     </p>
                 </div>
             </div>
@@ -56,7 +56,7 @@ export default function Experience() {
                         </h2>
                         <p className="sm:text-lg mt-3">
                             Hosted labs, held office hours, and assisted in exam preparation for Computer Systems and Organization I and II. The two courses cover
-                            hardware design, circuits, data and process representation,  and x86 assembly; both utilize C programming to explore
+                            hardware design, circuits, data and process representation, and x86 assembly. C programming is used to explore
                             concurrency, virtual memory, networking, security concepts, and Linux/unix internals.
                     </p>
                 </div>
@@ -74,9 +74,9 @@ export default function Experience() {
                             June 2022 - April 2023
                         </h2>
                         <p className="sm:text-lg mt-3">
-                            Wrote PowerShell scripts for data analysis and automation, set up user workstations with Microsoft Autopilot, and performed
-                            general help desk tasks involving Azure, OneDrive, and SharePoint. Performed networking and maintanence on switches, security appliances, and
-                            servers in-office and at train stations.
+                        Developed scripts for data analysis and task automation. Streamlined user workstation setup processes. 
+                        Provided IT support, focusing on cloud services and collaboration tools. 
+                        Maintained network infrastructure at office and remote locations, including train stations.
                         </p>
                 </div>
             </div>

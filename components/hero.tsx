@@ -17,7 +17,7 @@ export default function Hero() {
                             Download Resume
                         </a>
                         <a href="#" className="inline-flex text-gray-700 bg-dcream border-0 py-2 px-6 focus:outline-none rounded-3xl text-lg transition-colors duration-500 ease-in-out hover:bg-pastel2">
-                            Read Articles
+                            Blog Posts
                         </a>
                         </div>
                     </div>

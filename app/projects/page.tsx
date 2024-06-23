@@ -11,7 +11,7 @@ export default function Home() {
         <hr className="h-0.2 mx-auto bg-black dark:bg-gray-700"></hr>
       </header>
       
-      <Hero></Hero>
+      <Projects></Projects>
     </main>
   );
 }
