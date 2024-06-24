@@ -18,9 +18,10 @@ const config: Config = {
       cream: '#FFFFFF',
       dcream: '#fcfcfc',
       black: '#000000',
-      dblue: '#2D64BC',
-      lblue: '#6499F3',
-      yellow: '#FFBA00'
+      green: '#90DFAA',
+      blue: '#54C0EB',
+      red: '#FF7058',
+      dblue: '#2C9984'
     }
   },
   plugins: [],
