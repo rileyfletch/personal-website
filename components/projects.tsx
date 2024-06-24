@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { motion } from "framer-motion";
 
 export default function Projects() {
     return (
@@ -25,7 +26,7 @@ export default function Projects() {
                 </a>
             </li>
 
-            <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
+            <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-green">
                 <a href="/pricing" className="group">
                 <Image src="map.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
                 <h3 className="my-3 font-display font-medium group-hover:text-primary-500">HistoryMaps</h3>
@@ -45,7 +46,7 @@ export default function Projects() {
                 </a>
             </li>
 
-            <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
+            <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-green">
                 <a href="/pricing" className="group">
                 <Image src="chess.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
                 <h3 className="my-3 font-display font-medium group-hover:text-primary-500">Swing Chess</h3>
@@ -64,7 +65,7 @@ export default function Projects() {
                 </a>
             </li>
 
-            <li className="rounded-3xl mb-8 px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
+            <li className="rounded-3xl mb-8 px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-green">
                 <a href="/download" className="group">
                 <Image src="website.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
                 <h3 className="my-3 font-display font-medium group-hover:text1">Personal Website</h3>
@@ -79,7 +80,7 @@ export default function Projects() {
                 <h3 className="my-3 font-display font-medium group-hover:text-primary-500">
                     SocketTalk
                 </h3>
-                <p className="mt-1.5 text-sm leading-6 text-secondary-500">JavaFX application for talking to other computers on a local network.</p>
+                <p className="mt-1.5 text-sm leading-6 text-secondary-500">JavaFX desktop application for talking to other users on a local network.</p>
                 </a>
             </li>
 
