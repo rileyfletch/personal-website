@@ -17,13 +17,13 @@ export default function About() {
                     the <a href="https://www.virginia.edu/" className="underline hover:text-blue transition-colors duration-700 ease-in-out">University of Virginia</a>.
                     Besides taking classes, I&apos;m a teaching assistant for Computer Systems and Organization, 
                     and a student developer at <a href="https://thecourseforum.com" className="underline hover:text-red transition-colors duration-700 ease-in-out">theCourseForum</a>. 
-                    Cliche as it sounds, I love all things technology and computers. 
-                    However, I find particular interest in areas such as operating systems,
+                    I love all things technology and computers,
+                    however, I find particular interest in areas such as operating systems,
                     embedded systems, networks, security, and machine learning.
                 </p>
 
                 <p className="sm:text-lg">
-                    Outside of computers, I love to listen to music, read, and play a variety of sports. 
+                    Beyond computer stuff, I love to listen to music, read, and play a variety of sports. 
                     Lately, I&apos;ve been having fun mountain biking.
                     As much as I enjoy living in an IDE for hours, getting outside is crucial to me, and I love to explore new places. 
                 </p>

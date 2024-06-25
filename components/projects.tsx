@@ -11,10 +11,10 @@ export default function Projects() {
                 <Image src="codesquare.svg" alt="code" width={50} height={50}></Image>
         </div>
 
-        <p className="text-center font-medium text-lg mt-8">Building projects is a fun way to learn new languages and technologies.</p>
+        <p className="text-center font-medium text-lg mt-8">Exploring new languages and technologies by building things.</p>
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
-            <ul className="mt-4 grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
+            <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
 
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
                  <a href="/pricing" className="group">
