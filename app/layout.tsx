@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Radio_Canada } from "next/font/google";
 import "./globals.css";
 import Transition from "./transition";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Radio_Canada({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Riley Fletcher",
