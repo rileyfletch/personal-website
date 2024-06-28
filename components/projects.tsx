@@ -4,14 +4,8 @@ import { motion } from "framer-motion";
 export default function Projects() {
     return (
     <div className="px-2 py-8 bg-cream flex flex-col items-center">
-        <div className="flex flex-row items-center">
-                <h2 className="pr-2 text-xl font-medium leading-tight mb-1 sm:text-4xl md:text-5xl text-center transition-colors duration-1000 ease-in-out hover:text-red">
-                        Projects
-                </h2>
-                <Image src="codesquare.svg" alt="code" width={50} height={50}></Image>
-        </div>
 
-        <p className="text-center font-medium text-lg mt-8">Exploring new languages and technologies by building things.</p>
+        <p className="text-center font-medium text-lg">One of the best ways to learn new languages and tools is by building projects.</p>
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
             <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">

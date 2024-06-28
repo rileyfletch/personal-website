@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Radio_Canada } from "next/font/google";
+import { Rubik } from "next/font/google";
 import "./globals.css";
 import Transition from "./transition";
 
-const inter = Radio_Canada({ subsets: ["latin"] });
+const inter = Rubik({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Riley Fletcher",

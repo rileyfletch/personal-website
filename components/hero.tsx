@@ -8,10 +8,10 @@ export default function Hero() {
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="w-full md:w-1/2 mb-8 md:mb-0 flex flex-col items-center md:text-left">
                         <h1 className="text-7xl font-extrabold leading-tight mb-6 sm:text-7xl md:text-7xl transition-all duration-700 hover:text-blue">
-                            Hi, I&apos;m Riley
+                            Hi, I&apos;m Riley.
                         </h1>
                         <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 sm:text-xl text-center transition-all duration-700 hover:text-dblue">
-                            I&apos;m an aspiring software engineer with a passion for systems programming and backend development.
+                            I&apos;m an aspiring software engineer with interests in systems and backend development.
                         </p>
                         <div className="flex flex-wrap items-center md:justify-start gap-6">
                             <a href="https:/www.github.com/nrfletcher">
