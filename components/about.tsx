@@ -4,26 +4,32 @@ export default function About() {
 
             <div className="max-w-xl mx-auto space-y-5 mt-10">
 
-                <p className="sm:text-xl mb-4 font-semibold">A quick overview.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A brief overview.</p>
 
                 <p className="sm:text-xl mb-4">
-                    Hi, I&apos;m Riley, and I&apos;m currently studying computer science and data science at the University of Virginia, 
-                    graduating Spring 2025. At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II,
-                    and a developer at theCourseForum. I&apos;ve been a software engineering intern at Dell Technologies, the United
+                    Hi, I&apos;m Riley, and I&apos;m currently studying computer science and data science at the 
+                     <a className="text-red font-semibold" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia </a>
+                    in Charlottesville, graduating in the Spring of 2025. 
+                    </p> 
+                    <p className="sm:text-xl mb-4">
+                    At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II,
+                    and a developer at <a className="text-red font-semibold" href="https://thecourseforum.com/"> theCourseForum </a>. I&apos;ve been a software engineering intern at Dell Technologies, the United
                     States Navy, and worked as an information technology intern at Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
                     I love all things to do with computing, but my main areas of interest are operating systems,
-                    networks, security, embedded systems, and backend web development. The complexity of computer
+                    networks, security, embedded systems, and backend web development. </p>
+                    <p className="sm:text-xl mb-4">
+                    The complexity of computer
                     systems fascinates me. I&apos;m always trying to build knowledge of the stack, from transistors
                     all the way to - how does JavaScript run in a browser?
                 </p>
 
                 <p className="sm:text-xl">
                     When I&apos;m not indulging in tech, I love to read and write, listen to music, attempt to play guitar,
-                    ride my mountainbike, and get outside exploring nature. Below, I expand the experience I&apos;ve
-                    gained during my career.
+                    ride my mountainbike, and get outside exploring nature. If you&apos;re curious about my work experience
+                    in further detail, continue reading.
                 </p>
 
                 <p className="sm:text-xl mb-4 font-semibold">My experience in technology.</p>
