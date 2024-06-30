@@ -65,22 +65,9 @@ export default function About() {
                 <p className="sm:text-xl mb-4 font-semibold">Me personally, continued.</p>
 
                 <p className="sm:text-xl">
-                So, you&apos;re still curious to learn more about me?
-                </p>
-
-                <p className="sm:text-xl">
-                What do I read? Generally, I&apos;ll read just about anything if it interests me. A good author
-                matters far more to me than the subject matter. That said, I love to learn about history, finance,
-                philosophy, the natural sciences, and cars. When it comes to fiction, fantasy is my go to. Some of
-                my favorites include The Hobbit, Percy Jackson, A Short History of Nearly Everything, and yes,
-                I have to throw in a computer book (only because it is so good) - Code, by Charles Petzold.
-                </p>
-
-                <p className="sm:text-xl">What music do I listen to? I&apos;ve explored a lot of music and I have
-                    a lot more yet to experience. Currently, I can&apos;t get enough
-                    of The Smiths and Radiohead. If it&apos;s rock time, Red Hot Chili Peppers, Dire Straits, and
-                    Jimi Hendrix take the cake. Some of my other all time favorites are Kendrick Lamar, Daft Punk,
-                    deadmau5, and Joe Hisaishi.
+                I am a bit addicted to keeping track of things I do, so it is quite easy for you to get a glimpse into
+                my taste of things. I try to log everything I read on Goodreads, all my movie history on Letterboxd,
+                and my album listens on RateYourMusic. I welcome all judgement toward my questionable takes.
                 </p>
 
 

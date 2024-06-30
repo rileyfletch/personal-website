@@ -4,9 +4,9 @@ export default function Navigation() {
     return(
         <nav className="py-3 px-4 flex items-center justify-between">
             <div className="flex flex-row">
-            <a className="font-medium text-2xl tracking-tight transition-all duration-700 hover:text-red pr-2" href="/">
-            riley fletcher 
-            </a>
+                <a className="font-medium text-2xl tracking-tight transition-all duration-700 hover:text-red pr-2" href="/">
+                riley fletcher 
+                </a>
             </div>
             
             <div className="flex items-center">
