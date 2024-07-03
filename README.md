@@ -4,3 +4,4 @@
 * Next.js w/ App Router
 * TailwindCSS
 * Framer Motion
+* MDX Blog Markup
