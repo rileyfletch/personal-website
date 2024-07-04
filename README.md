@@ -1,7 +1,8 @@
 # Personal Website
-### Tech Stack
+### This website is built with...
 * TypeScript
 * Next.js w/ App Router
 * TailwindCSS
 * Framer Motion
-* MDX Blog Markdown
+* GitHub Pages + Actions
+* AWS Route53 
