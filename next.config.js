@@ -5,6 +5,7 @@ const nextConfig = {
   // Configure pageExtensions to support MDX
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
   output: 'export',
+  basePath: "/personal-website",
 };
 
 // Use the MDX plugin
