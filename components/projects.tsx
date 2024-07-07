@@ -51,7 +51,7 @@ export default function Projects() {
             </li>
 
             <li className="rounded-3xl mb-8 px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
-                <a href="https://github.com/nrfletcher/gpt-auto-chatbot" className="group">
+                <a href="https://github.com/nrfletcher/openai-discord-chatbot" className="group">
                 <Image src="bot.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
                 <h3 className="my-3 font-display font-medium group-hover:text1">Automotive GPT Chatbot</h3>
                 <p className="mt-1.5 text-sm leading-6 text-secondary-500">A Discord chatbot that utilizes a corpus of scrubbed automotive data and the OpenAI API to answer questions.
