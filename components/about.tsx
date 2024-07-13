@@ -18,11 +18,10 @@ export default function About() {
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                    I love all things to do with computing, but my main areas of interest are operating systems,
+                    I love all things to do with computing, but my main areas of interest are systems, such as operating systems,
                     networks, security, embedded systems, and backend web development. </p>
                     <p className="sm:text-xl mb-4">
-                    The complexity of computer
-                    systems fascinates me. I&apos;m always trying to increase knowledge of the stack, from transistors
+                    Modern computer systems complexity is fascinating. I&apos;m always trying to increase knowledge of the stack, from transistors
                     all the way to - how does JavaScript run in a browser?
                 </p>
 
@@ -35,9 +34,10 @@ export default function About() {
                 <p className="sm:text-xl mb-4 font-semibold">My experience in technology.</p>
 
                 <p className="sm:text-xl"> 
-                    During the Summer of 2024, I am a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> working on Powerstore
-                    on the backend protocols team. I&apos;m currently working on developing utilies for IO job testing and automation,
-                    as well as implementing IO trace features to identify bottlenecks and increase developer debugging efficiency.
+                    During the Summer of 2024, I was a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> working for Powerstore
+                    on the backend protocols team. I built developer tools for bottleneck identification and performance profiling
+                    on backend components near the xNVMe drive interface, and FIO workload automation tooling that could be run against
+                    devices on the appliance itself. I also spent some time backporting new features into legacy performance analyis tools.
                 </p>
 
                 <p className="sm:text-xl">
@@ -67,13 +67,13 @@ export default function About() {
                 of my second year at community college.
                 </p>
 
-                <p className="sm:text-xl mb-4 font-semibold">Me personally, continued.</p>
+                <p className="sm:text-xl mb-4 font-semibold">More about me.</p>
 
                 <p className="sm:text-xl">
-                I am a bit addicted to keeping track of what media I consume; I try to log everything I read on 
+                If you&apos;re interested in what sort of content I consume; I log most everything I read on 
                 <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
                     href="https://www.goodreads.com/user/show/133370871-riley-fletcher"> Goodreads
-                </a>, all my movie history on <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
+                </a>, my movie history on <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
                     href="https://letterboxd.com/rileyfletcher/">
                  Letterboxd</a>,
                 and my album listens on <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 

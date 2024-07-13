@@ -5,7 +5,7 @@ export default function Projects() {
     return (
     <div className="px-2 py-8 bg-cream flex flex-col items-center">
 
-        <p className="text-center font-medium text-lg">I&apos;m always tinkering with new languages and technologies.</p>
+        <p className="text-center font-medium text-lg">Current and completed projects I&apos;ve worked on.</p>
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
             <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
@@ -13,7 +13,7 @@ export default function Projects() {
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
                  <a href="https://github.com/nrfletcher/ooo-processor" className="group">
                 <Image src="processor.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
-                <h3 className="my-3 font-display font-medium group-hover:text-primary-500">Out-of-order Processor</h3>
+                <h3 className="my-3 font-display font-medium group-hover:text-primary-500">OoO Processor Emulator</h3>
                 <p className="mt-1.5 text-sm leading-6 text-secondary-500">Simple processor emulator with program loader, debugger, and 
                     tooling to understand aspects of out-of-order program execution.
                 </p>
