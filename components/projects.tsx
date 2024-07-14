@@ -5,11 +5,11 @@ export default function Projects() {
     return (
     <div className="px-2 py-8 bg-cream flex flex-col items-center">
 
-        <p className="text-center font-medium text-lg">Current and completed projects I&apos;ve worked on.</p>
+        <p className="text-center font-medium text-lg">Showcasing my existing and retired projects.</p>
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
             <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
-
+            {/** Add this back in later
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
                  <a href="https://github.com/nrfletcher/ooo-processor" className="group">
                 <Image src="processor.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
@@ -19,7 +19,7 @@ export default function Projects() {
                 </p>
                 </a>
             </li>
-
+            */}
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-green">
                 <a href="https://github.com/nrfletcher/historymaps" className="group">
                 <Image src="map.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
