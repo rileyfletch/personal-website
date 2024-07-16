@@ -9,17 +9,15 @@ export default function Projects() {
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
             <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">
-            {/** Add this back in later
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-blue">
-                 <a href="https://github.com/nrfletcher/ooo-processor" className="group">
+                 <a href="https://github.com/nrfletcher/r86-virtual-machine" className="group">
                 <Image src="processor.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
-                <h3 className="my-3 font-display font-medium group-hover:text-primary-500">OoO Processor Emulator</h3>
-                <p className="mt-1.5 text-sm leading-6 text-secondary-500">Simple processor emulator with program loader, debugger, and 
-                    tooling to understand aspects of out-of-order program execution.
+                <h3 className="my-3 font-display font-medium group-hover:text-primary-500">r86 Virtual Machine</h3>
+                <p className="mt-1.5 text-sm leading-6 text-secondary-500">A minimal virtual machine inspired by x86 and LC-3
+                    architectures, featuring a program loader, debugging tools, and an assembler.
                 </p>
                 </a>
             </li>
-            */}
             <li className="rounded-3xl px-6 py-8 shadow-sm transition-colors duration-1000 ease-in-out hover:bg-green">
                 <a href="https://github.com/nrfletcher/historymaps" className="group">
                 <Image src="map.svg" alt="" className="mx-auto h-10 w-10" width={200} height={200}></Image>
