@@ -14,13 +14,13 @@ export default function Hero() {
                             I&apos;m an aspiring software engineer with interests in systems and backend development.
                         </p>
                         <div className="flex flex-wrap items-center md:justify-start gap-6">
-                            <a href="https:/www.github.com/nrfletcher">
+                            <a href="https://www.github.com/nrfletcher">
                                 <Image src="github.svg" alt="GitHub" width={40} height={40} 
                                 className="transition-all duration-1000 hover:brightness-0 hover:invert hover:sepia hover:saturate-[5000%] hover:hue-rotate-[190deg]"></Image></a>
-                            <a href="https:/www.linkedin.com/in/rileyfletcher">
+                            <a href="https://www.linkedin.com/in/rileyfletcher">
                                 <Image src="linkedin.svg" alt="GitHub" width={40} height={40}
                                 className="transition-all duration-1000 hover:brightness-0 hover:invert hover:sepia hover:saturate-[5000%] hover:hue-rotate-[190deg]"></Image></a>
-                            <a href="mailto: nrileyfletcher@gmail.com">
+                            <a href="mailto:nrileyfletcher@gmail.com">
                                 <Image src="email.svg" alt="GitHub" width={40} height={40}
                                 className="transition-all duration-1000 hover:brightness-0 hover:invert hover:sepia  hover:hue-rotate-[290deg]"></Image></a>
                         </div>
