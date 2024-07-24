@@ -7,31 +7,27 @@ export default function About() {
                 <p className="sm:text-xl mb-4 font-semibold">A brief overview.</p>
 
                 <p className="sm:text-xl mb-4">
-                    Hi, I&apos;m Riley, and I&apos;m currently studying computer science and data science at the 
-                     <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia </a>
-                    in Charlottesville, graduating in the Spring of 2025. 
+                Hi! I&apos;m Riley, a computer science and data science student at
+                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in Spring 2025.
+                     
+                     
+                    
                     </p> 
                     <p className="sm:text-xl mb-4">
                     At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II,
-                    and a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum </a>. I&apos;ve been a software engineering intern at Dell Technologies, the United
-                    States Navy, and worked as an information technology intern at Virginia Railway Express.
+                    and a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. I&apos;ve interned at Dell Technologies, the United
+                    States Navy, and Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                    I love all things to do with computing, but my main areas of interest are systems, such as operating systems,
-                    networks, security, embedded systems, and backend web development. </p>
-                    <p className="sm:text-xl mb-4">
-                    Modern computer systems complexity is fascinating. I&apos;m always trying to increase knowledge of the stack, from transistors
-                    all the way to - how does JavaScript run in a browser?
+                While I&apos;m passionate about all aspects of computing, my primary interests lie in systems, including operating systems, networks, security, embedded systems, and backend web development.
                 </p>
 
                 <p className="sm:text-xl">
-                    When I&apos;m not indulging in tech, I love to read and write, listen to music, attempt to play guitar,
-                    mountain bike, and get outside exploring nature. If you&apos;re curious about my work experience
-                    in further detail, continue reading.
+                Outside of technology, I enjoy reading, writing, listening to music, playing guitar, mountain biking, and exploring nature. For a more detailed overview of my work experience, continue reading.
                 </p>
 
-                <p className="sm:text-xl mb-4 font-semibold">My experience in technology.</p>
+                <p className="sm:text-xl mb-4 font-semibold">Work experience.</p>
 
                 <p className="sm:text-xl"> 
                     During the Summer of 2024, I was a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> working for Powerstore

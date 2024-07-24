@@ -114,9 +114,7 @@ export default function Home() {
 
                 <p className="sm:text-xl">
                     I greatly enjoy programming, and unless this field takes a massive nosedive, I don&apos;t think
-                    I see myself exiting. That being said, it is stressful times. My major glimmer of hope is that 
-                    we will look back and admire this span of time as a major collapse in computing careers.
-                    Or, maybe we look back and say, &apos;that was just the beginning of the end!&apos;
+                    I see myself exiting. That being said, it is stressful times.
                 </p>
 
                 <p className="sm:text-xl">
@@ -124,8 +122,9 @@ export default function Home() {
                     extra time here and there to stay afloat. That said, you won&apos;t find me doing
                     LeetCode in the retirement home. Hopefully by then, either Mark has perfected his Metaverse
                     and we all live happily ever after inside our headsets, or Elon has finished his autonomous
-                    robots, and we all sit on the beach being served martinis by our silicon underlings. There
-                    is a third option here, but I&apos;d rather not spell it out.
+                    robots, and we all sit on the beach being served martinis by our silicon underlings. Or maybe they can help
+                     do some sentiment analysis on all my blog posts in the future and analyze how less shit
+                    they become over time.
                 </p>
             </div>
         </div>
