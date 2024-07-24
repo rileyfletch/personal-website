@@ -67,19 +67,7 @@ export default function About() {
                 of my second year at community college.
                 </p>
 
-                <p className="sm:text-xl mb-4 font-semibold">More about me.</p>
-
-                <p className="sm:text-xl">
-                If you&apos;re interested in what sort of content I consume; I log most everything I read on 
-                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
-                    href="https://www.goodreads.com/user/show/133370871-riley-fletcher"> Goodreads
-                </a>, my movie history on <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
-                    href="https://letterboxd.com/rileyfletcher/">
-                 Letterboxd</a>,
-                and my album listens on <a className="text-red font-semibold transition-all duration-700 hover:text-blue" 
-                    href="https://rateyourmusic.com/~rileyfletch">
-                RateYourMusic</a>. Feel free to peruse my questionable takes.
-                </p>
+                
             </div>
         </div>
     )
