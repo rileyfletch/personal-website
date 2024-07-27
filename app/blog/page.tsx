@@ -1,4 +1,5 @@
 import Blog from "@/components/blog";
+import Footer from "@/components/footer";
 import Navigation from "@/components/navbar";
 
 export default function Home() {
@@ -10,6 +11,7 @@ export default function Home() {
       </header>
       
       <Blog></Blog>
+      <Footer></Footer>
     </main>
   );
 }

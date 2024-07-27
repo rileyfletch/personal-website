@@ -2,9 +2,9 @@ export default function About() {
     return (
         <div className="flex flex-col items-center mb-10">
 
-            <div className="max-w-xl mx-auto space-y-5 mt-10">
+            <div className="max-w-2xl mx-auto space-y-5 mt-10">
 
-                <p className="sm:text-xl mb-4 font-semibold">A brief overview.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A little background.</p>
 
                 <p className="sm:text-xl mb-4">
                 Hi! I&apos;m Riley, a computer science and data science student at

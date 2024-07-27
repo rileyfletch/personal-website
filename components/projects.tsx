@@ -4,8 +4,6 @@ import { motion } from "framer-motion";
 export default function Projects() {
     return (
     <div className="px-2 py-8 bg-cream flex flex-col items-center">
-
-        <p className="text-center font-medium text-lg">What I work on.</p>
         
         <div id="features" className="mx-auto max-w-6xl mt-8">
             <ul className=" grid grid-cols-1 gap-6 text-center text-slate-700 md:grid-cols-3">

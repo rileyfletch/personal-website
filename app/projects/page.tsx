@@ -1,3 +1,4 @@
+import Footer from "@/components/footer";
 import Navigation from "@/components/navbar";
 import Projects from "@/components/projects";
 
@@ -10,6 +11,7 @@ export default function Home() {
       </header>
       
       <Projects></Projects>
+      <Footer></Footer>
     </main>
   );
 }
