@@ -14,17 +14,26 @@ export default function About() {
                     
                     </p> 
                     <p className="sm:text-xl mb-4">
-                    At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II,
-                    and a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. I&apos;ve interned at Dell Technologies, the United
+                    At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II where I get to indoctrinate 
+                    new C programming enjoyers (and cynics),
+                    and a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
+                    </p>
+                    <p className="sm:text-xl mb-4">
+                    I&apos;ve interned at Dell Technologies, the United
                     States Navy, and Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                While I&apos;m passionate about all aspects of computing, my primary interests lie in systems, including operating systems, networks, security, embedded systems, and backend web development.
+                 Areas I enjoy focusing my learning on are operating systems, networks, security, embedded systems, and backend web development.
+                </p>
+
+                <p className="sm:text-xl mb-4"> 
+                 Notably, I also find myself doing a lot with data science, both personally and academically + professionally.
+                 A data driven perspective often reveals a lot.
                 </p>
 
                 <p className="sm:text-xl">
-                Outside of technology, I enjoy reading, writing, listening to music, playing guitar, mountain biking, and exploring nature. For a more detailed overview of my work experience, continue reading.
+                In my free time I enjoy reading, creative writing, playing guitar, mountain biking, and watching stuff like Formula 1 and tennis.
                 </p>
 
                 <p className="sm:text-xl mb-4 font-semibold">Work experience.</p>

@@ -11,7 +11,7 @@ export default function Hero() {
                             Hi, I&apos;m Riley.
                         </h1>
                         <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 sm:text-xl text-center transition-all duration-700 hover:text-dblue">
-                            I&apos;m an aspiring software engineer with interests in systems and backend development.
+                            Aspiring software engineer with interests in systems programming, security, and backend development.
                         </p>
                         <div className="flex flex-wrap items-center md:justify-start gap-6">
                             <a href="https://www.github.com/nrfletcher">
