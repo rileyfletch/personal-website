@@ -4,58 +4,54 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10">
 
-                <p className="sm:text-xl mb-4 font-semibold">A little background.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A little about me.</p>
 
                 <p className="sm:text-xl mb-4">
-                Hi! I&apos;m Riley, a computer science and data science student at
+                Hi. I&apos;m Riley, a computer science and data science student at the
                 <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in Spring 2025.
                      
                      
                     
                     </p> 
                     <p className="sm:text-xl mb-4">
-                    At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II where I get to indoctrinate 
-                    new C programming enjoyers (and cynics),
-                    and a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
+                    At UVA, I&apos;m a teaching assistant for Computer Systems and Organization I and II,
+                    as well as a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
                     </p>
                     <p className="sm:text-xl mb-4">
-                    I&apos;ve interned at Dell Technologies, the United
+                    Professionally, I&apos;ve interned at Dell Technologies, the United
                     States Navy, and Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 Areas I enjoy focusing my learning on are operating systems, networks, security, embedded systems, and backend web development.
+                 Subjects I most enjoy learning about are operating systems, networks, security, embedded systems, and backend web development.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 Notably, I also find myself doing a lot with data science, both personally and academically + professionally.
-                 A data driven perspective often reveals a lot.
+                 I also find myself doing a lot with data science, whether it be personally, academically, or professionally.
+                 A data driven perspective often reveals a lot about a problem space.
                 </p>
 
                 <p className="sm:text-xl">
-                In my free time I enjoy reading, creative writing, playing guitar, mountain biking, and watching stuff like Formula 1 and tennis.
+                In my free time I enjoy reading and creative writing, playing guitar, sports like tennis or mountain biking, and watching motorsports.
                 </p>
 
                 <p className="sm:text-xl mb-4 font-semibold">Work experience.</p>
 
                 <p className="sm:text-xl"> 
-                    During the Summer of 2024, I was a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> working for Powerstore
-                    on the backend protocols team. I built developer tools for bottleneck identification and performance profiling
+                    During the Summer of 2024, I was a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> 
+                    working for on the Powerstore team. I built developer tools for bottleneck identification and performance profiling
                     on backend components near the xNVMe drive interface, and FIO workload automation tooling that could be run against
                     devices on the appliance itself. I also spent some time backporting new features into legacy performance analyis tools.
                 </p>
 
                 <p className="sm:text-xl">
-                I am a computer science teaching assistant at the University of Virginia where I instruct for
-                Computer Systems and Organization I, an introductory systems course that teaches about hardware design,
-                circuits, x86 assembly, and C programming. I primarily host office hours, labs, and assist in exam
-                preperation. I&apos;ve really enjoyed this role, and it&apos;s taught me a lot about discussing problems
-                and knowledge transferring. This Fall I&apos;m returning to CSO1 as well as CSO2, our secondary systems course 
-                that focuses on C programming for systems concepts like concurrency, virtual memory, and Linux internals.
+                I&apos;m a computer science teaching assistant at the University of Virginia where I instruct for
+                Computer Systems and Organization I and II, the two introductory systems courses that teach about hardware design,
+                circuits, x86 assembly, and C programming to learn about concurrency, virtual memory, and Linux internals.
                 </p>
 
                 <p className="sm:text-xl">
-                    The Summer of 2023, after my final year at community college, I was a software engineering intern
+                    Summer of 2023, after my final year at community college, I was a software engineering intern
                     for the United States Navy, at the <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.navsea.navy.mil/Media/News/Article/1929358/navy-warfare-center-engineers-revolutionize-aegis-combat-system-training-with-c/"> Dahlgren research facility </a>. As a part of the CIAT team,
                     I worked on naval training software where I spent most of my time improving the existing software by
                     addressing security concerns, outdated programming methodologies, and adding unit tests. I was able
@@ -65,11 +61,10 @@ export default function About() {
 
                 <p className="sm:text-xl">
                 From the Summer of 2022 to Spring of 2023, I was an information technology intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.vre.org/"> Virginia Railway Express </a>
-                . As my first &apos;proper&apos; technical role,
-                I learned a lot about being in a professional environment. From a technical perspective, I did
+                . As my first &apos;proper&apos; job,
+                I learned a lot about working in a professional environment. Technically, I did
                 a lot of physical networking both in-office and at train stations, shell scripting to automate
-                tasks and aggegrate data, and general help desk stuff. I ended up working here part time until the Summer
-                of my second year at community college.
+                tasks and aggegrate data, and general help desk stuff. This was a super unique experience, and easily one of my favorite places to work at.
                 </p>
 
                 
