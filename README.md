@@ -1,5 +1,5 @@
-# Personal Website
-### This website is built with...
+# My Personal Website
+### Tech Stack
 
 TypeScript
 * Statically typed JavaScript just feels so much better.
