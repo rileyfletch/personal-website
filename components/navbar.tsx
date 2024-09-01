@@ -13,7 +13,7 @@ export default function Navigation() {
                 <Link className="font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-700 hover:text-blue" href="/about">about</Link>
                 <Link className="font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-700 hover:text-green" href="/projects">projects</Link>
                 <Link className="font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-700 hover:text-blue" href="/blog">blog</Link>
-                <Link className="font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-700 hover:text-green" href="RileyFletcherResume2024.pdf" download="fletcher_resume">resume</Link>
+                <Link className="font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-700 hover:text-green" href="FletcherResume2024.pdf" download="fletcher_resume">resume</Link>
             </div>
         </nav>
     )
