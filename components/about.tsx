@@ -4,10 +4,10 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10">
 
-                <p className="sm:text-xl mb-4 font-semibold">A little about me.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A quick summary.</p>
 
                 <p className="sm:text-xl mb-4">
-                Hi. I&apos;m Riley, a computer science and data science student at the
+                Hey! I&apos;m Riley, a computer science and data science student at the
                 <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in Spring 2025.
                      
                      
@@ -18,21 +18,22 @@ export default function About() {
                     as well as a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
                     </p>
                     <p className="sm:text-xl mb-4">
-                    Professionally, I&apos;ve interned at Dell Technologies, the United
+                    Beyond academics, I&apos;ve interned for Dell Technologies, the United
                     States Navy, and Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 Subjects I most enjoy learning about are operating systems, networks, security, embedded systems, and backend web development.
+                 Subjects I most enjoy learning about are operating systems, networks, security, computer hardware, and backend web development.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 I also find myself doing a lot with data science, whether it be personally, academically, or professionally.
-                 A data driven perspective often reveals a lot about a problem space.
+                 I like engaging with data science, and while I have yet to do so, I greatly wish to
+                 spend some time learning distributed systems, compilers, and concurrency.
                 </p>
 
                 <p className="sm:text-xl">
-                In my free time I enjoy reading and creative writing, playing guitar, sports like tennis or mountain biking, and watching motorsports.
+                In my free time I enjoy reading and creative writing, playing guitar, and sports like tennis or mountain biking. 
+                Outside of tech, I love learning about finance, history, motorsports, and new recipes to cook poorly.
                 </p>
 
                 <p className="sm:text-xl mb-4 font-semibold">Work experience.</p>
