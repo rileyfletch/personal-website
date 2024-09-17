@@ -4,11 +4,11 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10">
 
-                <p className="sm:text-xl mb-4 font-semibold">A quick summary.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A little about me.</p>
 
                 <p className="sm:text-xl mb-4">
-                Hey! I&apos;m Riley, a computer science and data science student at the
-                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in Spring 2025.
+                Hi. I&apos;m Riley, a computer science and data science student at the
+                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in May, 2025.
                      
                      
                     
@@ -23,12 +23,12 @@ export default function About() {
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 Subjects I most enjoy learning about are operating systems, networks, security, computer hardware, and backend web development.
+                 Subjects I really enjoy learning about are operating systems, networks, computer hardware, distributed systems, and backend services.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 I like engaging with data science, and while I have yet to do so, I greatly wish to
-                 spend some time learning distributed systems, compilers, and concurrency.
+                 I also like engaging with data science, especially in regards to &quot;big data&quot; and designing system architecture built to
+                 support large data aggregation and transformations.
                 </p>
 
                 <p className="sm:text-xl">
