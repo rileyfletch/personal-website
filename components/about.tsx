@@ -1,16 +1,14 @@
 export default function About() {
     return (
-        <div className="flex flex-col items-center mb-10">
+        <div className="flex flex-col items-center mb-10 px-4 sm:px-6 md:px-8">
 
-            <div className="max-w-2xl mx-auto space-y-5 mt-10">
+            <div className="max-w-2xl mx-auto space-y-5 mt-10 w-full">
 
                 <p className="sm:text-xl mb-4 font-semibold">A little about me.</p>
 
                 <p className="sm:text-xl mb-4">
                 Hi. I&apos;m Riley, a computer science and data science student at the
                 <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in May, 2025.
-                     
-                     
                     
                     </p> 
                     <p className="sm:text-xl mb-4">

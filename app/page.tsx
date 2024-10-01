@@ -1,5 +1,6 @@
 import Footer from "@/components/footer";
 import Hero from "@/components/hero";
+import MobileHero from "@/components/mobile_hero";
 import Navigation from "@/components/navbar";
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
         <hr className="h-0.2 mx-auto bg-dcream text-dcream"></hr>
       </header>
       
-      <Hero></Hero>
+      <MobileHero></MobileHero>
       <Footer></Footer>
     </main>
   );
