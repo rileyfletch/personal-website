@@ -6,7 +6,7 @@ export default function MobileHero() {
         <section className="min-h-screen flex items-center pb-16">
             <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-56 py-10">
                 <div className="flex flex-col md:flex-row items-center">
-                    <div className="w-full md:w-1/2 mb-8 md:mb-0 flex flex-col items-center md:items-start md:text-left">
+                    <div className="w-full md:w-1/2 mb-8 md:mb-0 flex flex-col items-center">
                         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight mb-6 transition-all duration-700 hover:text-blue text-center md:text-left">
                             Hi, I&apos;m Riley.
                         </h1>
