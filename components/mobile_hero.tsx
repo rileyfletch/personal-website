@@ -10,8 +10,8 @@ export default function MobileHero() {
                         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight mb-6 transition-all duration-700 hover:text-blue text-center md:text-left">
                             Hi, I&apos;m Riley.
                         </h1>
-                        <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 text-sm sm:text-base md:text-lg lg:text-xl text-center md:text-left transition-all duration-700 hover:text-dblue">
-                            Aspiring software engineer interested in operating systems, networks, distributed systems, and infrastructure.
+                        <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 text-sm sm:text-base md:text-lg lg:text-xl text-center transition-all duration-700 hover:text-dblue">
+                            Aspiring software engineer interested in operating systems, computer networks, distributed systems, and infrastructure tooling.
                         </p>
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-6">
                             <a href="https://www.github.com/nrfletcher">

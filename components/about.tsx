@@ -4,11 +4,11 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10 w-full">
 
-                <p className="sm:text-xl mb-4 font-semibold">A little about me.</p>
+                <p className="sm:text-xl mb-4 font-semibold">A quick overview.</p>
 
                 <p className="sm:text-xl mb-4">
                 Hi. I&apos;m Riley, a computer science and data science student at the
-                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in May, 2025.
+                <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://engineering.virginia.edu/department/computer-science"> University of Virginia</a>, graduating in May 2025.
                     
                     </p> 
                     <p className="sm:text-xl mb-4">
@@ -16,25 +16,24 @@ export default function About() {
                     as well as a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
                     </p>
                     <p className="sm:text-xl mb-4">
-                    Beyond academics, I&apos;ve interned for Dell Technologies, the United
+                    Professionally, I&apos;ve been an intern Dell Technologies, the United
                     States Navy, and Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 Subjects I really enjoy learning about are operating systems, networks, computer hardware, distributed systems, and backend services.
+                 I&apos;m super interested in all things low-level and high-scale; such as operating systems, computer networks, embedded systems, distributed systems, and infrastructure tooling.
                 </p>
 
                 <p className="sm:text-xl mb-4"> 
-                 I also like engaging with data science, especially in regards to &quot;big data&quot; and designing system architecture built to
-                 support large data aggregation and transformations.
+                 Long term, I&apos;d love to work on developing solutions for large systems such as cloud infra, big data, or distributed systems where optimizations for scale and attention to detail is invaluable.
                 </p>
 
                 <p className="sm:text-xl">
-                In my free time I enjoy reading and creative writing, playing guitar, and sports like tennis or mountain biking. 
-                Outside of tech, I love learning about finance, history, motorsports, and new recipes to cook poorly.
+                Outside of tech I like reading and creative writing, playing guitar, tennis, and outdoorsy stuff like hiking and mountain biking. 
+                I also enjoy learning about finance, history, and motorsports.
                 </p>
 
-                <p className="sm:text-xl mb-4 font-semibold">Work experience.</p>
+                <p className="sm:text-xl mb-4 font-semibold">Past experiences.</p>
 
                 <p className="sm:text-xl"> 
                     During the Summer of 2024, I was a software engineering intern at <a className="text-red font-semibold transition-all duration-700 hover:text-blue" href="https://www.dell.com/en-us/shop/storage-servers-and-networking-for-business/sf/power-store"> Dell Technologies </a> 
