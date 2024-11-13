@@ -11,7 +11,7 @@ export default function MobileHero() {
                             Hi, I&apos;m Riley.
                         </h1>
                         <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 text-sm sm:text-base md:text-lg lg:text-xl text-center md:text-left transition-all duration-700 hover:text-dblue">
-                            Aspiring software engineer with interests in systems programming, data science, and backend development.
+                            Aspiring software engineer interested in operating systems, networks, distributed systems, and infrastructure.
                         </p>
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-6">
                             <a href="https://www.github.com/nrfletcher">
