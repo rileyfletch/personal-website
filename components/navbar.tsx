@@ -13,7 +13,7 @@ export default function Navigation() {
         <nav className="py-3 px-4 flex items-center justify-between">
             <div className="flex flex-row">
                 <Link 
-                    className={`font-medium text-2xl tracking-tight transition-all duration-700 hover:text-red pr-2 ${isActive('/') ? 'text-red' : ''}`} 
+                    className={`font-bold text-3xl tracking-tight transition-all duration-700 hover:text-red pr-2 ${isActive('/') ? 'text-red' : ''}`} 
                     href="/"
                 >
                     riley fletcher
@@ -22,25 +22,25 @@ export default function Navigation() {
            
             <div className="flex items-center">
                 <Link 
-                    className={`font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-blue ${isActive('/about') ? 'text-blue' : ''}`} 
+                    className={`font-bold text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-blue ${isActive('/about') ? 'text-blue' : ''}`} 
                     href="/about"
                 >
                     about
                 </Link>
                 <Link 
-                    className={`font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-green ${isActive('/projects') ? 'text-green' : ''}`} 
+                    className={`font-bold text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-green ${isActive('/projects') ? 'text-green' : ''}`} 
                     href="/projects"
                 >
                     projects
                 </Link>
                 <Link 
-                    className={`font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-blue ${isActive('/blog') ? 'text-blue' : ''}`} 
+                    className={`font-bold text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-blue ${isActive('/blog') ? 'text-blue' : ''}`} 
                     href="/blog"
                 >
                     blog
                 </Link>
                 <Link 
-                    className={`font-medium text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-green ${isActive('FletcherResume2024.pdf') ? 'text-green' : ''}`} 
+                    className={`font-bold text-md px-4 py-2 leading-none rounded-full tracking-tight transition-all duration-300 hover:text-green ${isActive('FletcherResume2024.pdf') ? 'text-green' : ''}`} 
                     href="FletcherResume2024.pdf" 
                     download="fletcher_resume"
                 >

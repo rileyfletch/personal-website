@@ -1,5 +1,4 @@
 import Footer from "@/components/footer";
-import Hero from "@/components/hero";
 import MobileHero from "@/components/mobile_hero";
 import Navigation from "@/components/navbar";
 

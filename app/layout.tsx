@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { Rubik } from "next/font/google";
+import { Raleway, Rubik } from "next/font/google";
 import "./globals.css";
 import Transition from "./transition";
 
-const inter = Rubik({ subsets: ["latin"] });
+const inter = Rubik({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   title: "Riley Fletcher",

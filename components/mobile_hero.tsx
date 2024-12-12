@@ -7,11 +7,11 @@ export default function MobileHero() {
             <div className="container mx-auto px-4 sm:px-6 md:px-8 lg:px-56 py-10">
                 <div className="flex flex-col md:flex-row items-center">
                     <div className="w-full md:w-1/2 mb-8 md:mb-0 flex flex-col items-center">
-                        <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight mb-6 transition-all duration-700 hover:text-blue text-center md:text-left">
+                        <h1 className="text-2xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight mb-6 transition-all duration-700 hover:text-blue text-center md:text-left">
                             Hi, I&apos;m Riley.
                         </h1>
                         <p className="font-medium mb-6 max-w-3xl mx-auto md:mx-0 leading-relaxed dark:text-gray-300 text-sm sm:text-base md:text-lg lg:text-xl text-center transition-all duration-700 hover:text-dblue">
-                            Aspiring software engineer enthusiastic about low-level computing and systems programming.
+                            Aspiring software engineer enthusiastic about software infrastructure, low-level computing, and systems programming.
                         </p>
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-6">
                             <a href="https://www.github.com/nrfletcher">

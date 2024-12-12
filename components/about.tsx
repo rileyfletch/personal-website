@@ -4,7 +4,7 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10 w-full">
 
-                <p className="sm:text-2xl mb-4 font-semibold">Hi.</p>
+                <p className="sm:text-2xl mb-4 font-semibold">Hi &#128522;</p>
 
                 <p className="sm:text-2xl mb-4">
                 Thanks for checking out my site. 
@@ -20,8 +20,7 @@ export default function About() {
                 as well as a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
                 </p>
                 <p className="sm:text-2xl mb-4">
-                Professionally, I&apos;ve been an intern Dell Technologies, the United
-                States Navy, and Virginia Railway Express.
+                I've spent the past summers doing software engineering at Dell Technologies and the U.S. Navy, and information technology at Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-2xl mb-4"> 
@@ -29,7 +28,7 @@ export default function About() {
                 </p>
 
                 <p className="sm:text-2xl mb-4"> 
-                 Long term, I&apos;d love to work on developing solutions for large systems such as cloud infra, big data, or distributed systems where optimizations for scale and attention to detail is invaluable.
+                 Long term, I&apos;d love to work on solving problems in cloud infra or distributed systems where optimizations for scale and attention to detail are invaluable.
                 </p>
 
                 <p className="sm:text-2xl">
