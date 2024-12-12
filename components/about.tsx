@@ -20,7 +20,7 @@ export default function About() {
                 as well as a developer at <a className="text-red font-semibold transition-all duration-700 hover:text-green" href="https://thecourseforum.com/"> theCourseForum</a>. 
                 </p>
                 <p className="sm:text-2xl mb-4">
-                I've spent the past summers doing software engineering at Dell Technologies and the U.S. Navy, and information technology at Virginia Railway Express.
+                I&apos;ve spent the past summers doing software engineering at Dell Technologies and the U.S. Navy, and information technology at Virginia Railway Express.
                 </p>
 
                 <p className="sm:text-2xl mb-4"> 
