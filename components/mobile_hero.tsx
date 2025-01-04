@@ -14,7 +14,7 @@ export default function MobileHero() {
                             Aspiring software engineer enthusiastic about software infrastructure, low-level computing, and systems programming.
                         </p>
                         <div className="flex flex-wrap items-center justify-center md:justify-start gap-6">
-                            <a href="https://www.github.com/nrfletcher">
+                            <a href="https://www.github.com/rileyfletch">
                                 <Image src="github.svg" alt="GitHub" width={40} height={40}
                                 className="transition-all duration-1000 hover:brightness-0 hover:invert hover:sepia hover:saturate-[5000%] hover:hue-rotate-[190deg]" />
                             </a>
