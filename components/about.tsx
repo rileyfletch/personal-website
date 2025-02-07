@@ -4,11 +4,7 @@ export default function About() {
 
             <div className="max-w-2xl mx-auto space-y-5 mt-10 w-full">
 
-                <p className="sm:text-2xl mb-4 font-semibold">Hi &#128522;</p>
-
-                <p className="sm:text-2xl mb-4">
-                Thanks for checking out my site. 
-                </p>
+                <p className="sm:text-2xl mb-4 font-semibold">Welcome &#128522;</p>
 
                 <p className="sm:text-2xl mb-4">
                 I&apos;m Riley, a computer science and data science student at the
